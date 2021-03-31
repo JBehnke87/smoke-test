@@ -1,0 +1,13 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`test show Date 1`] = `
+<div>
+  <span>
+    The correct date is: 
+    Wed Mar 31 2021 13:50:31 GMT+0200 (Mitteleuropäische Sommerzeit)
+  </span>
+  <span>
+    The correct date is: 2017-04-05
+  </span>
+</div>
+`;
