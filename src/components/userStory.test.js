@@ -1,12 +1,6 @@
-import Enzyme from 'enzyme';
-import Adapter from '@wojtekmaj/enzyme-adapter-react-17';
 import React from 'react'
-import ReactDOM from 'react-dom'
-import renderer from 'react-test-renderer'
 import { shallow } from 'enzyme'
 import UserStory from './UserStory';
-
-Enzyme.configure({ adapter: new Adapter() });
 
 describe('UserStory', () => {
 
